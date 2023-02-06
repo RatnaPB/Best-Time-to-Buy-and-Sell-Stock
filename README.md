@@ -1,4 +1,4 @@
-# Best Time to Buy and Sell Stock (Java) (Dynamic Programming and Greedy)
+# Best Time to Buy and Sell Stocks (Dynamic Programming and Greedy)
 
 ### 1. Problem Definition
 
